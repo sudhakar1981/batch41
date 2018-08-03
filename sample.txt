@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 for test add text
 hihihi
+=======
+for test
+mytest1
+>>>>>>> 4110e66d1d3dd9cf25115fafd0342e13b0d6bb0b
