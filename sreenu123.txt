@@ -1,0 +1,14 @@
+
+Mind Q Systems 
+devops batch no-41
+
+public static void main(string org)
+{
+webdribver obj=new Firefoxdriver();
+obj.url("WWW.MINDQ SYSTEMS.COM");
+obj.findelement(by.name("cjkdcdl;c"));
+thread.sleep(9000);
+obj.findelement(By.xpath("//.attributr/username"));
+
+
+}
