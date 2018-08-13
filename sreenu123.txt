@@ -9,6 +9,7 @@ obj.url("WWW.MINDQ SYSTEMS.COM");
 obj.findelement(by.name("cjkdcdl;c"));
 thread.sleep(9000);
 obj.findelement(By.xpath("//.attributr/username"));
-
+thread.sleep(3000);
+obj.findelement(By.username("username.txt").sendkeys("abcdefghijkl")
 
 }
